@@ -1,0 +1,11 @@
+RESPALDOS DEL PROYECTO
+
+Los respaldos completos de las bases de datos utilizadas en el proyecto se encuentran disponibles mediante Google Drive debido a las restricciones de tamaño de GitHub.
+
+Archivos incluidos:
+
+BD_ENOE_Centralizada.bak
+BD_ENOE_Nodo_A.bak
+BD_ENOE_Nodo_B.bak
+
+Enlace de descarga: https://drive.google.com/drive/folders/1QlUSk_CRze2ubpolAzlQRa47T1RejTrV
